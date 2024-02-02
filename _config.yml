@@ -1,0 +1,5 @@
+sites:
+  - url: "http://example.com"  # 第一个网站的URL地址
+    interval: 10m              # 访问第一个网站的间隔时间，10m=10分钟
+  - url: "http://example.org"  # 第二个网站的URL地址
+    interval: 15m              # 访问第二个网站的间隔时间，15m=15分钟
